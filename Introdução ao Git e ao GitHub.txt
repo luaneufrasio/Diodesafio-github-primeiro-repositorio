@@ -1,0 +1,7 @@
+Introdução ao Git e ao GitHub
+Temas abordados no aprendizado ao Git
+GUI(Graphical User Interface)/CLI(Command-line Interface);
+Sha1, objetos do Git, blob, tree, commit, estados de um arquivo e fluxo GIT;
+Untracked, unmodified, modified, staged, local repositório se comunicando com Github via pull e push
+Temas abordados no aprendizado ao GitHub
+Clone, conflitos, resolução dos conflitos, pull, push, branch, fork.
